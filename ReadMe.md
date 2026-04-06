@@ -1,8 +1,10 @@
 ## 💫 About Me
 
-Hi, I'm Samy Baouche. I am a Software Engineering student at Concordia University with a strong focus on Cloud Engineering, Full-Stack Development, and AI/ML.
+Hi, I’m Samy Baouche. I am a Software Engineering student at Concordia University with a strong focus on Cloud Engineering, Full-Stack Development, and AI/ML.
 
-I am passionate about building scalable applications and exploring how modern technologies can be combined to create efficient and intelligent systems.
+I am passionate about building scalable applications and exploring how modern technologies can be combined to create efficient and intelligent systems. From designing backend architectures to working with cloud infrastructure, I continuously strive to improve my technical skills.
+
+My goal is to become a versatile engineer capable of building end-to-end solutions, from user-facing applications to robust cloud-based systems.
 
 ---
 
