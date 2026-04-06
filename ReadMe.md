@@ -1,8 +1,8 @@
 ## 💫 About Me
 
-Hi, I’m Samy Baouche. I am a Software Engineering student at Concordia University with a strong focus on Cloud Engineering, Full-Stack Development, and AI/ML.
+Hi, I'm Samy Baouche, a Software Engineering student at Concordia University with a strong interest in Cloud Engineering, Full-Stack Development, and AI/ML.
 
-I am passionate about building scalable applications and exploring how modern technologies can be combined to create efficient and intelligent systems. From designing backend architectures to working with cloud infrastructure, I continuously strive to improve my technical skills.
+I enjoy building scalable applications and exploring how modern technologies can be combined to create efficient and intelligent systems. From designing backend architectures to working with cloud infrastructure, I’m constantly learning and improving my skills.
 
 My goal is to become a versatile engineer capable of building end-to-end solutions, from user-facing applications to robust cloud-based systems.
 
@@ -19,7 +19,6 @@ My goal is to become a versatile engineer capable of building end-to-end solutio
 ### ☁️ Cloud & Infrastructure
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws\&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge\&logo=microsoftazure\&logoColor=white)
 
 ---
 
@@ -34,17 +33,21 @@ My goal is to become a versatile engineer capable of building end-to-end solutio
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge\&logo=github-actions\&logoColor=white)
 
 ---
 
 ### 🖥️ Languages & Backend
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=java\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge\&logo=gnubash\&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express\&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge\&logo=django\&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge\&logo=powershell\&logoColor=white)
 
 ---
@@ -63,7 +66,6 @@ My goal is to become a versatile engineer capable of building end-to-end solutio
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
 ![React Spring](https://img.shields.io/badge/React_Spring-6DB33F?style=for-the-badge\&logo=spring\&logoColor=white)
 ![JavaFX](https://img.shields.io/badge/JavaFX-FF0000?style=for-the-badge\&logo=java\&logoColor=white)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge\&logo=jquery\&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge\&logo=figma\&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge\&logo=canva\&logoColor=white)
 
@@ -73,3 +75,4 @@ My goal is to become a versatile engineer capable of building end-to-end solutio
 
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge\&logo=jsonwebtokens\&logoColor=white)
 ![Context API](https://img.shields.io/badge/Context_API-61DAFB?style=for-the-badge\&logo=react\&logoColor=black)
+
