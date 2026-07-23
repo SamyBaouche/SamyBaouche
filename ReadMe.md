@@ -17,7 +17,7 @@ behaves under load.
 
 The part of engineering I care about starts after the code works. A service
 that runs on my machine isn't finished; a service that recovers on its own,
-deploys without me, and tells me what it's doing is. That's why I gravitate
+deploys without me and tells me what it's doing. That's why I gravitate
 toward infrastructure automation, observability, and the operational side
 of distributed systems — the problems that only show up in production.
 
@@ -27,12 +27,14 @@ infrastructure, and the systems users actually touch fit together.
 —
 
 Tech stack
-Cloud & Infrastructure: AWS (EC2, EKS, ECS, ECR, RDS, IAM), Kubernetes,
-Terraform, Docker
-DevOps: GitHub Actions, CI/CD, Prometheus, Grafana, Linux, Bash
-Backend: Go, Java, Spring Boot, Node.js, Python, Django, REST APIs
-Frontend: React, TypeScript
-Databases: PostgreSQL, MySQL
+Cloud & Infrastructure: AWS (EC2, EKS, ECS, ECR, RDS, IAM, CloudWatch),
+Kubernetes, Terraform, Docker
+DevOps & Observability: GitHub Actions, CI/CD, Git, Prometheus, Grafana,
+Linux, Bash, PowerShell
+Backend: Go, Java, Spring Boot, Node.js, Express.js, Python, Django,
+FastAPI, REST APIs, JWT
+Frontend: React, TypeScript, JavaScript, HTML/CSS
+Databases: PostgreSQL, MySQL, SQLite, SQL
 
 Open to connecting with people working on cloud infrastructure, DevOps, or
 distributed systems — always up for a conversation about system design and
