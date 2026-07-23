@@ -1,10 +1,42 @@
 ## 💫 About Me
 
-Software Engineering student at Concordia University with a focus on cloud infrastructure, DevOps, and cloud security, building full stack systems to understand how modern applications are designed, deployed, and operated at scale.
+I build cloud infrastructure that runs itself — systems that recover from
+failures on their own, environments that stand up from a single command,
+and access control that decides in real time.
 
-I approach engineering with a production first mindset. Writing code is only one part of the problem, designing systems that are reliable, scalable, and secure in real environments is where the real complexity lies. I am particularly interested in cloud native systems, infrastructure automation, and the principles behind operating distributed systems under real world constraints.
+Seeking an  internship in cloud engineering, DevOps, or backend
+development in Montreal. samy.baouche@gmail.com
 
-Through hands on projects, I design and deploy applications end to end, focusing on clean architecture, observability, and operational reliability. I work across the stack to better understand how backend services, infrastructure, and user facing systems interact in production.
+—
+
+I'm a Software Engineering student at Concordia University and a member of
+the Co-op Institute. Most of what I know comes from building things end to
+end rather than from coursework — designing the architecture, writing the
+service, automating the deployment, and then watching how it actually
+behaves under load.
+
+The part of engineering I care about starts after the code works. A service
+that runs on my machine isn't finished; a service that recovers on its own,
+deploys without me, and tells me what it's doing is. That's why I gravitate
+toward infrastructure automation, observability, and the operational side
+of distributed systems — the problems that only show up in production.
+
+I work across the stack because I want to understand how backend services,
+infrastructure, and the systems users actually touch fit together. 
+
+—
+
+Tech stack
+Cloud & Infrastructure: AWS (EC2, EKS, ECS, ECR, RDS, IAM), Kubernetes,
+Terraform, Docker
+DevOps: GitHub Actions, CI/CD, Prometheus, Grafana, Linux, Bash
+Backend: Go, Java, Spring Boot, Node.js, Python, Django, REST APIs
+Frontend: React, TypeScript
+Databases: PostgreSQL, MySQL
+
+Open to connecting with people working on cloud infrastructure, DevOps, or
+distributed systems — always up for a conversation about system design and
+real-world engineering problems.
 
 ---
 
