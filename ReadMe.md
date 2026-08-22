@@ -24,7 +24,6 @@ of distributed systems — the problems that only show up in production.
 I work across the stack because I want to understand how backend services,
 infrastructure, and the systems users actually touch fit together. 
 
-—
 
 Open to connecting with people working on cloud infrastructure, DevOps, or
 distributed systems — always up for a conversation about system design and
