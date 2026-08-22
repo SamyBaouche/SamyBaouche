@@ -1,13 +1,13 @@
 ## 💫 About Me
 
-I build cloud infrastructure that runs itself — systems that recover from
+I build cloud infrastructure that runs itself, systems that recover from
 failures on their own, environments that stand up from a single command,
 and access control that decides in real time.
 
-Seeking an  internship in cloud engineering, DevOps, or backend
+Seeking an  internship in cloud engineering, DevOps, or AI
 development in Montreal. samy.baouche@gmail.com
 
-—
+
 
 I'm a Software Engineering student at Concordia University and a member of
 the Co-op Institute. Most of what I know comes from building things end to
