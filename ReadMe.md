@@ -1,6 +1,6 @@
 ## 💫 About Me
 
-Software Engineering student at Concordia University (Co-op Institute), focused on Cloud & DevOps.
+Software Engineering student at Concordia University (Co-op Institute), focused on Cloud, DevOps & AI/ML.
 
 I build cloud infrastructure that runs itself: systems that recover from failures on their own, environments that stand up from a single command, and access control that decides in real time. A service isn't finished when it works. It's finished when it recovers on its own, deploys without me, and tells me what it's doing.
 
